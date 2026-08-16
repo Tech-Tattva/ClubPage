@@ -1,16 +1,5 @@
 [
   {
-    "id": "event-001",
-    "slug": "ai-workshop",
-    "title": "Practical AI & Machine Learning Workshop",
-    "status": "upcoming",
-    "date": "15 September 2026",
-    "time": "10:00 AM - 01:00 PM",
-    "venue": "Seminar Hall 1 (SH1), KMCE",
-    "description": "Learn practical AI concepts, prompt engineering, and building intelligent web applications using modern AI APIs. Hands-on coding session required — bring your laptops!",
-    "registrationLink": "https://forms.gle/example-ai-workshop"
-  },
-  {
     "id": "event-002",
     "slug": "web-hackathon-2026",
     "title": "WebCraft 2026 Hackathon",
