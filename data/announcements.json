@@ -1,13 +1,5 @@
 [
   {
-    "id": "ann-001",
-    "slug": "ai-workshop-registrations-open",
-    "title": "Registrations Open for Practical AI Workshop",
-    "date": "16 August 2026",
-    "summary": "Registrations are officially open for the upcoming Practical AI & Machine Learning Workshop scheduled for 15 September 2026.",
-    "content": "We are thrilled to announce that registrations are now open for our flagship workshop 'Practical AI & Machine Learning Workshop'. The session will cover modern AI tools, API integrations, and practical coding exercises. Seats are limited to 60 participants on a first-come, first-served basis. Make sure to bring your laptop with Node.js/Python or browser developer environment pre-configured."
-  },
-  {
     "id": "ann-002",
     "slug": "orientation-session-recap",
     "title": "Tech Tattva Academic Year 2026-27 Kickoff Recap",
