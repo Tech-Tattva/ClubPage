@@ -121,7 +121,6 @@ function renderFooter(site) {
         <ul class="social-links">
           ${social.whatsapp ? `<li><a href="${social.whatsapp}" target="_blank" rel="noopener" class="social-link">Whatsapp</a></li>` : ''}
           ${social.instagram ? `<li><a href="${social.instagram}" target="_blank" rel="noopener" class="social-link">Instagram</a></li>` : ''}
-          ${social.linkedin ? `<li><a href="${social.linkedin}" target="_blank" rel="noopener" class="social-link">LinkedIn</a></li>` : ''}
           ${social.email ? `<li><a href="mailto:${social.email}" class="social-link">Contact</a></li>` : ''}
         </ul>
 
