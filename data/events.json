@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "event-1786882623142",
+    "slug": "csw",
+    "title": "CyberSecurity Workshop (CSW'2026)",
+    "status": "upcoming",
+    "date": "20 Aug 2026",
+    "time": "9:30 AM",
+    "venue": "Seminar Hall 1, KMCE",
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdw8lEQGgtf8kzvUGfD5CpwGSLATlHErfOlgKFYI-TDqn3e-w/viewform",
+    "description": "Cybersecurity Workshop 2026 — An interactive hands-on workshop covering practical cybersecurity concepts, real-world challenges, and CTF-based labs."
+  }
+]
