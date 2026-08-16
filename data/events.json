@@ -1,16 +1,5 @@
 [
   {
-    "id": "event-002",
-    "slug": "web-hackathon-2026",
-    "title": "WebCraft 2026 Hackathon",
-    "status": "upcoming",
-    "date": "28 September 2026",
-    "time": "09:00 AM - 06:00 PM",
-    "venue": "Main Computer Lab 2, KMCE",
-    "description": "A 9-hour hackathon focused on building clean, accessible, and high-performance web applications. Open to all branches and years. Exciting certificates and prizes for winners!",
-    "registrationLink": "https://forms.gle/example-web-hackathon"
-  },
-  {
     "id": "event-003",
     "slug": "git-github-bootcamp",
     "title": "Git & GitHub Version Control Bootcamp",
