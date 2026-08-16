@@ -1,13 +1,1 @@
-[
-  {
-    "id": "event-003",
-    "slug": "git-github-bootcamp",
-    "title": "Git & GitHub Version Control Bootcamp",
-    "status": "past",
-    "date": "10 August 2026",
-    "time": "10 August 2026",
-    "venue": "Auditorium Annex, KMCE",
-    "description": "Master open source collaboration, branching strategies, merge conflict resolution, and GitHub pull requests.",
-    "registrationLink": "https://forms.gle/example-git-bootcamp"
-  }
-]
+[]
