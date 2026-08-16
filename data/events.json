@@ -1,5 +1,16 @@
 [
   {
+    "id": "event-1786883208358",
+    "slug": "sih",
+    "title": "Smart India Internal Hackathon (SIH 2026)",
+    "status": "upcoming",
+    "date": "Soon",
+    "time": "9:30 AM",
+    "venue": "KMCE",
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSc0wVLaV3IyOOYXORfJYKWBwUEshqdLKrd3W0gdoolDeeAzVg/viewform",
+    "description": "Soon"
+  },
+  {
     "id": "event-1786882623142",
     "slug": "csw",
     "title": "CyberSecurity Workshop (CSW'2026)",
