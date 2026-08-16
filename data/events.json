@@ -1,0 +1,35 @@
+[
+  {
+    "id": "event-001",
+    "slug": "ai-workshop",
+    "title": "Practical AI & Machine Learning Workshop",
+    "status": "upcoming",
+    "date": "15 September 2026",
+    "time": "10:00 AM - 01:00 PM",
+    "venue": "Seminar Hall 1 (SH1), KMCE",
+    "description": "Learn practical AI concepts, prompt engineering, and building intelligent web applications using modern AI APIs. Hands-on coding session required — bring your laptops!",
+    "registrationLink": "https://forms.gle/example-ai-workshop"
+  },
+  {
+    "id": "event-002",
+    "slug": "web-hackathon-2026",
+    "title": "WebCraft 2026 Hackathon",
+    "status": "upcoming",
+    "date": "28 September 2026",
+    "time": "09:00 AM - 06:00 PM",
+    "venue": "Main Computer Lab 2, KMCE",
+    "description": "A 9-hour hackathon focused on building clean, accessible, and high-performance web applications. Open to all branches and years. Exciting certificates and prizes for winners!",
+    "registrationLink": "https://forms.gle/example-web-hackathon"
+  },
+  {
+    "id": "event-003",
+    "slug": "git-github-bootcamp",
+    "title": "Git & GitHub Version Control Bootcamp",
+    "status": "past",
+    "date": "10 August 2026",
+    "time": "10 August 2026",
+    "venue": "Auditorium Annex, KMCE",
+    "description": "Master open source collaboration, branching strategies, merge conflict resolution, and GitHub pull requests.",
+    "registrationLink": "https://forms.gle/example-git-bootcamp"
+  }
+]

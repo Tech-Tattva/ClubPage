@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ann-001",
+    "slug": "ai-workshop-registrations-open",
+    "title": "Registrations Open for Practical AI Workshop",
+    "date": "16 August 2026",
+    "summary": "Registrations are officially open for the upcoming Practical AI & Machine Learning Workshop scheduled for 15 September 2026.",
+    "content": "We are thrilled to announce that registrations are now open for our flagship workshop 'Practical AI & Machine Learning Workshop'. The session will cover modern AI tools, API integrations, and practical coding exercises. Seats are limited to 60 participants on a first-come, first-served basis. Make sure to bring your laptop with Node.js/Python or browser developer environment pre-configured."
+  },
+  {
+    "id": "ann-002",
+    "slug": "orientation-session-recap",
+    "title": "Tech Tattva Academic Year 2026-27 Kickoff Recap",
+    "date": "05 August 2026",
+    "summary": "Thank you to all 150+ students who attended our annual orientation session in the KMCE Auditorium.",
+    "content": "Our annual club orientation session was a tremendous success with over 150 enthusiastic students participating. We presented our upcoming roadmap for the semester, including upcoming hackathons, weekly peer mentorship tracks, and guest lectures from industry professionals."
+  },
+  {
+    "id": "ann-003",
+    "slug": "weekly-code-jam-announcement",
+    "title": "Weekly Peer Coding Sessions Every Friday",
+    "date": "25 July 2026",
+    "summary": "Join us every Friday from 4:30 PM to 6:00 PM in Computer Lab 1 for collaborative coding sessions.",
+    "content": "Tech Tattva is initiating weekly informal Code Jam sessions every Friday evening. Whether you are working on a personal web project, practicing LeetCode, or looking for team members for hackathons, drop by Lab 1 to connect with fellow student developers."
+  }
+]
